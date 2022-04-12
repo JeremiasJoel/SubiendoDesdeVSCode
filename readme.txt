@@ -6,7 +6,7 @@ todo el año anterior. Para cada compra se registraron los siguientes datos:
 • Número de proveedor (número de cuatro cifras no correlativo).
 • Día (1 a 31).
 • Mes (1 a 12).
-maxiprograma.com
+
 3
 • Tipo de Factura (Responsable inscripto: "A",Consumidor Final: "B", o
 Monotributo: "C").
