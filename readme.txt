@@ -1,3 +1,6 @@
+    Ejercio de maxiprograma https://www.youtube.com/watch?v=gMMoOYm-aCg&t=20s
+Excelente curso para iniciarse!!
+
 5. Una empresa registró las compras realizadas a sus distintos proveedores durante
 todo el año anterior. Para cada compra se registraron los siguientes datos:
 • Número de proveedor (número de cuatro cifras no correlativo).
@@ -17,9 +20,13 @@ registros de los proveedores a los que que no se les hayan realizado compras.
 Se pide determinar e informar:
 a. El monto máximo registrado en una sola compra por cada proveedor y el
 número de proveedor al que se le compró.
+
 b. La inversión total de todo el año discriminada por tipo de factura.
+
 c. La compra con menor monto registrada durante el mes de Agosto junto al
 número de producto comprado.
+
 d. La cantidad de compras que se realizaron a cada proveedor.
+
 e. El número de producto con mayor cantidad comprada en una sola compra y
 en qué proveedor se compró.
