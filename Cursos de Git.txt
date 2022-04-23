@@ -22,7 +22,9 @@ GIT:
         11_ git add : seleccionar y agregar un archivo para ser seguidos, tambien para agregar cambios de archivos seguidos ;
         11_ git add nombre archivo ; *.tipo de archivo ; . todos los archivos(mala practica)
         12_ git commit -m "(mensaje)": para poner un mensaje y agregar cambios que estan en stage(los mensajes deben ser concretos no pavadas)
-
+        13_ rm : para eleminar un archivo ;
+        14_ restore : para recuperar archivos eliminados ;
+        
 
 
     c- Procesos: flujo de trabajo : 
