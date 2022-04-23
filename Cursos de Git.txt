@@ -1,0 +1,42 @@
+// todo sobre como usar GIT y la consola de COMANDOS.
+
+
+/*
+GIT:
+    a- Usar Git Bash(terminal de GIT)
+    b- En el Bash:
+        1_ git --version para conocer la version ;
+        2_ git --global para configurarlo con nuestro usuario y correo, y demas configuraciones
+        2_a git --global -e para ver la configuracion global en VSCODE ;
+        2_b git --global core.editor "code --wait" para que espere a que se cierre el editor ;
+        3_ git --global core.autocrlf para tratar saltos de lineas segun tu sistemas operativos(windows True) ;
+        4_ ls : sirve para ver las carpetas u directorios
+        5_ pwd : darnos la ubicacion de en que carpeta estamos
+        6_ cd : para movernos por las carpetas
+        6_a cd : seguidos por el nombre de la carpeta
+        6_b cd : .. para volver atras
+        7_ mkdir : crear carpetas o directorios donde querramos
+        8_ git init : inicializar un carpeta como repositorio
+        9_ -a : es para ver todo de cualquier COMANDOS
+        10_ git status : muestra el estado de archivo
+        11_ git add : seleccionar y agregar un archivo para ser seguidos, tambien para agregar cambios de archivos seguidos ;
+        11_ git add nombre archivo ; *.tipo de archivo ; . todos los archivos(mala practica)
+        12_ git commit -m "(mensaje)": para poner un mensaje y agregar cambios que estan en stage(los mensajes deben ser concretos no pavadas)
+
+
+
+    c- Procesos: flujo de trabajo : 
+                Pc(local) donde estamos trabajando
+                stage : donde se almacenan los cambios para incluir
+                commits : donde ya estan los cambios implementados
+                Server : ya cargados al servidor
+
+    d- Significados:
+        colores: 
+                rojo : aun no estan siendo seguidos ;
+                verde : en stage, listo para comprometer ;
+                rojo + modifiqued : archivos con cambios ;   
+
+    e- Extras:
+            clear : limpiar bash ;                     
+*/
